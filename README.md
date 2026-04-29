@@ -1,28 +1,21 @@
 # Hi, I'm Ojasvi 👋
-Aeronautical engineer turned Data Engineer — I build pipelines, 
-model data, and make sure the right numbers reach the right place.
-
-Based in Toulouse 🇫🇷 | Open to Data Engineering & SAP Analytics opportunities
-
+ 
+Aeronautical engineer turned Data & Governance Engineer — I help organisations understand their data, define what good data looks like, and build the foundations that make digital transformation actually work.
+ 
+**Based in Toulouse 🇫🇷 | Open to Data Governance, Data Engineering & Digital Transformation opportunities**
+ 
 ---
-
+ 
 ## 🙋‍♀️ About Me
-
-I started out in aeronautical engineering and somewhere along the 
-way fell in love with data. I spent 3+ years building and optimising 
-enterprise SAP BW/4HANA and Native HANA data warehouse solutions for 
-CMA CGM at Infosys — covering ETL pipelines, data modelling, 
-transformation logic, and end-to-end reporting across SAP Analytics 
-Cloud and Qlik for a global user base.
-
-I then joined ISAE-SUPAERO to deepen my expertise in AI and modern 
-data engineering, and am currently expanding into SAP Business Data 
-Cloud and cloud-native platforms.
-
-I'm particularly drawn to problems where data quality actually 
-matters: shipping logistics, flight data, industrial systems — 
-anything where a bad pipeline has real consequences.
-
+ 
+I came into data through engineering — and that shaped how I think about it. Before writing a single pipeline, I want to understand what the business needs, where the data comes from, and what it means when it goes wrong.
+ 
+That instinct has guided everything I have worked on. At Infosys, I spent three years translating business reporting requirements from commercial stakeholders into data models and pipelines for CMA CGM — learning that the hardest problems in data are rarely technical. At OpenAirlines in Toulouse, I defined data quality standards and governance frameworks for flight data recorder datasets, working directly with airline clients to understand what they needed before building anything.
+ 
+I am drawn to projects where data quality has real consequences — aviation, industrial systems, logistics — and where the challenge is not just building something that runs, but building something the business can trust.
+ 
+My ISAE-SUPAERO Advanced Master's in AI and Business Transformation deepened my understanding of how data and AI drive enterprise digital transformation — not as tools in isolation, but as part of a broader business strategy.
+ 
 ---
 
 ## 🛠️ Tech Stack
@@ -59,21 +52,6 @@ anything where a bad pipeline has real consequences.
 
 ---
 
-## 💼 Professional Highlights
-
-**SAP Data Engineer & Analytics Consultant — CMA CGM via Infosys**
-*(Mar 2021 – Jul 2024)*
-
-Built and maintained the CRM and sales target pipeline reporting 
-solution for one of the world's largest container shipping companies 
-on a hybrid SAP BW/4HANA and Native HANA data warehouse — processing 
-50M–80M records daily. Delivered 25+ reports and dashboards across 
-SAP Analytics Cloud, Analysis for Office, and Qlik for teams across 
-France, US, Dubai, and Singapore. Reduced process chain runtime by 
-~55% (11h → 5h) through parallelisation and code optimisation.
-
----
-
 ## 🚀 Featured Projects
 
 ### [AeroAtsu — FDR Validation Framework](https://github.com/Ojassv/AeroAtsu)
@@ -97,11 +75,6 @@ per-parameter explainability.
 
 ---
 
-## 📚 Currently Learning
-- **SAP Business Data Cloud & Datasphere** — pursuing SAP Certified 
-  Associate in BW/4HANA & Datasphere
-- **Apache Kafka** — real-time streaming and event-driven pipelines
-- **Cloud platforms** — deepening hands-on experience with AWS/Azure
 
 ---
 
