@@ -1,21 +1,6 @@
 # Hi, I'm Ojasvi 👋
- 
-Aeronautical engineer turned Data & Governance Engineer — I help organisations understand their data, define what good data looks like, and build the foundations that make digital transformation actually work.
- 
-**Based in Toulouse 🇫🇷 | Open to Data Governance, Data Engineering & Digital Transformation opportunities**
- 
----
- 
-## 🙋‍♀️ About Me
- 
-I came into data through engineering — and that shaped how I think about it. Before writing a single pipeline, I want to understand what the business needs, where the data comes from, and what it means when it goes wrong.
- 
-That instinct has guided everything I have worked on. At Infosys, I spent three years translating business reporting requirements from commercial stakeholders into data models and pipelines for CMA CGM — learning that the hardest problems in data are rarely technical. At OpenAirlines in Toulouse, I defined data quality standards and governance frameworks for flight data recorder datasets, working directly with airline clients to understand what they needed before building anything.
- 
-I am drawn to projects where data quality has real consequences — aviation, industrial systems, logistics — and where the challenge is not just building something that runs, but building something the business can trust.
- 
-My ISAE-SUPAERO Advanced Master's in AI and Business Transformation deepened my understanding of how data and AI drive enterprise digital transformation — not as tools in isolation, but as part of a broader business strategy.
- 
+
+Aeronautical engineer turned Data Engineer — I help organisations understand their data, define what good data looks like, and build the foundations that make digital transformation actually work.
 ---
 
 ## 🛠️ Tech Stack
